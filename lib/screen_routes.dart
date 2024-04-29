@@ -1,0 +1,11 @@
+const String homeScreen = "homescreen";
+const String diseaseDetection = "diseaseDetection";
+const String cropInformation = "cropInformation";
+const String communityScreen = "communityScreen";
+const String storeScreen = "storeScreen";
+const String cropRecommendation = "cropRecommendation";
+const String weatherDataScreen = "weatherDataScreen";
+const String rentScreen = "buyOrRentScreen";
+const String profileScreen = "profileScreen";
+const String loginScreen = "loginScreen";
+const String homeController = "homeController";

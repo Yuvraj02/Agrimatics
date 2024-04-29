@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "843656340347",
+    "project_id": "agrimetics-e3348",
+    "storage_bucket": "agrimetics-e3348.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843656340347:android:48111ddb57ff25f81253de",
+        "android_client_info": {
+          "package_name": "com.example.agrimatics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuzE5EKjDbEz7drMFu96-jJOGea0hzdZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

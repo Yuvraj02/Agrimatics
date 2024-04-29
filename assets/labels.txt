@@ -1,0 +1,7 @@
+0 Apple Scab
+1 Apple Black Rot
+2 Apple Juniper Rust
+3 Healthy Apple
+4 Potato Early Blight
+5 Potato Late Blight
+6 Healthy Potato
